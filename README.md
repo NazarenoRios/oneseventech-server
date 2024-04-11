@@ -41,7 +41,8 @@ $ yarn install
 ## Setup
 
 ```bash
-$ Use e
+$ Use example.env as a guide (copying and pasting the same data)
+```
 
 ## Running the app
 
